@@ -4,7 +4,7 @@
 
 Calculadora es una aplicación de escritorio desarrollada en Java, pensada especialmente para estudiantes de Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM). Este proyecto permite poner en práctica conceptos clave del ciclo formativo, como la programación orientada a objetos, el diseño de interfaces gráficas con Java Swing y la gestión de proyectos Java en entornos profesionales.
 
-El objetivo principal es servir como recurso educativo para reforzar competencias técnicas y fomentar el aprendizaje autónomo mediante la experimentación y ampliación de funcionalidades.
+El objetivo principal es servir como recurso educativo y fomentar el aprendizaje autónomo mediante la experimentación y ampliación de funcionalidades.
 
 ## Tabla de Contenidos
 - [Características](#características)
@@ -56,7 +56,7 @@ java -cp build/classes calculadora.Calculadora
 
 
 ## Contribución
-Este proyecto está abierto a la participación de estudiantes y docentes. Puedes proponer mejoras, añadir nuevas funcionalidades (científica, historial, conversor de unidades, etc.) o adaptar la interfaz para otros dispositivos. Si deseas contribuir, abre un issue o envía un pull request siguiendo las buenas prácticas de desarrollo colaborativo.
+Este proyecto está abierto a la participación de estudiantes y docentes. Puedes proponer mejoras, añadir nuevas funcionalidades (científica, historial, conversor de unidades, etc.) o adaptar la interfaz para otros dispositivos.
 
 
 ## Soporte
@@ -67,4 +67,5 @@ Si tienes dudas, necesitas ayuda o quieres compartir tus avances, puedes abrir u
 
 ## Licencia
 Este proyecto está licenciado bajo los términos de uso libre para fines educativos.
+
 
