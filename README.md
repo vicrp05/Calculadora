@@ -41,7 +41,7 @@ El objetivo principal es servir como recurso educativo para reforzar competencia
 ## Instalación
 1. Clona este repositorio:
    ```sh
-   git clone https://github.com/tu-usuario/calculadora-java.git
+   git clone https://github.com/vicrp05/Calculadora
    ```
 2. Abre el proyecto en tu IDE preferido.
 3. Asegúrate de tener configurado el JDK adecuado.
@@ -67,3 +67,4 @@ Si tienes dudas, necesitas ayuda o quieres compartir tus avances, puedes abrir u
 
 ## Licencia
 Este proyecto está licenciado bajo los términos de uso libre para fines educativos.
+
